@@ -1,0 +1,16 @@
+{
+  "name": "Movie-Directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://codingisfood.github.io/movie-directory",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
